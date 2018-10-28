@@ -1,0 +1,7 @@
+{
+  "name": "aah-wiki",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
